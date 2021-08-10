@@ -1,0 +1,1 @@
+// export var prog = $(".prog-title").outerWidth(true);
